@@ -1,0 +1,210 @@
+/*HOMESCREEN*/
+#homescreen_img {
+    width: 600px;
+    height: 600px;
+  }
+  #start {
+    width: 200px;
+    height: 50px;
+    background-color: #b9dc89;
+    border-width: 5px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+  }
+  /*RANDOM*/
+  body {
+    text-align: center;
+    font-family: "Jost", sans-serif;
+    background-image: url(green.webp);
+    background-size: cover;
+  }
+
+  .back_to_menu{
+    margin: 10px;
+    border-width: 3px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+  }
+
+  #Inv{
+    background-color: #7db135;
+    width: 1200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin: auto;
+    border: 10px solid greenyellow;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+#low_stock{
+  background-color: #7db135;
+  width: 1200px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin: auto;
+  border: 10px solid greenyellow;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+  
+  /*SEARCH BY TITLE*/
+  #search_inpt {
+    border-width: 3px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  #search_title_btn {
+    border-width: 3px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+  }
+  
+  #add_book_btn {
+    border-width: 3px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+  }
+  
+  #inv_btn {
+    border-width: 3px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+  }
+  
+  #stock_btn {
+    border-width: 3px;
+    border-radius: 15px;
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+    margin-bottom: 25px;
+  }
+  
+  #main_screen {
+    background-color: #7db135;
+    width: 1200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin: auto;
+    border: 10px solid greenyellow;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  table {
+    margin: auto;
+    border-radius: 15px;
+    border: solid, #45ba4b, 10px;
+    background-color: #7dcf81;
+    font-family: "Jost", sans-serif;
+    margin-bottom: 30px;
+  }
+  
+  .table_top {
+    padding-right: 100px;
+    background-color: #2e7d32;
+    color: white;
+  }
+  
+  td,
+  th,
+  tr {
+    background-color:#7dcf81;
+    padding:10px;
+    font-family: "Jost", sans-serif;
+    font-weight: bold;
+  }
+  
+  /*ADD BOOK*/
+
+#add_book{
+  background-color: #7db135;
+  width: 700px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin: auto;
+  border: 10px solid greenyellow;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
+
+  .add_book_inpts {
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+    margin: auto;
+    display: flex;
+    width: 300px;
+    padding: 5px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    border-width: 3px;
+    border-radius: 15px;
+  }
+  
+  .add_book_labels {
+    margin: auto;
+    display: flex;
+    width: 250px;
+  }
+  
+  #add_book_btn2 {
+    border-bottom-color: #8dc63f;
+    border-right-color: #8DC63F;
+    border-top-color: #a2d062;
+    border-left-color: #a2d062;
+    background-color: #b9dc89;
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    margin: auto;
+    border-radius: 15px;
+    border-width: 3px;
+  }
+  
+  #add_book_logo_div {
+    display: flex;
+  }
+  
+  #add_book_logo {
+    width: 600px;
+    height: 600px;
+    margin-left: 300px;
+  }
